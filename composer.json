@@ -1,5 +1,5 @@
 {
-    "name": "bokt/flarum-phpbb-migrate",
+    "name": "secondtruth/flarum-phpbb-migrate",
     "description": "Allows migrating phpbb to flarum",
     "keywords": [
         "extension",
